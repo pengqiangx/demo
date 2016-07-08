@@ -1,4 +1,4 @@
-package com.github.pengqiangx.demo.dp.prototype.one.eg;
+package com.github.pengqiangx.demo.dp.prototype.eg;
 
 /**
  * 使用原型的客户端

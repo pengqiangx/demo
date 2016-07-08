@@ -1,4 +1,4 @@
-package com.github.pengqiangx.demo.dp.prototype.one.eg;
+package com.github.pengqiangx.demo.dp.prototype.eg;
 
 /**
  * 声明一个克隆自身的接口
