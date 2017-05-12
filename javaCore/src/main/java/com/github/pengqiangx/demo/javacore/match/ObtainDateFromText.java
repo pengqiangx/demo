@@ -18,6 +18,11 @@ public class ObtainDateFromText {
         String text = "TO_DATE(' 2017-04-20 00:00:00', 'SYYYY-MM-DD HH24:MI:SS', 'NLS_CALENDAR=GREGORIAN')";
         System.out.print(run(text));
     }
+    @Test
+    public void test2(){
+        String s = "6.5100000.269925".substring(2,4);
+        System.out.println(s);
+    }
 
     /**
      *  java中正则表达式提取字符串中日期实现代码
