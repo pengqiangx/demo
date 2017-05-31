@@ -23,4 +23,13 @@ public class InetAddressTest {
         System.out.println(ips.substring(ips.length()-3,ips.length()));
 
     }
+    @Test
+    public void test2(){
+        int x = 10;
+        if(x++ > 10 & x++==12){
+            ++x;
+        }
+        System.out.print(x);
+
+    }
 }
