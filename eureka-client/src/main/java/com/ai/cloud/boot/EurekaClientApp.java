@@ -1,4 +1,4 @@
-package com.ai.zop.boot;
+package com.ai.cloud.boot;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
