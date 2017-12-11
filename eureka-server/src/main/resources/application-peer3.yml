@@ -1,8 +1,0 @@
-#spring.application.name=eureka-server
-#server.port=9803
-#spring.cloud.client.ipAddress=127.0.0.1
-#eureka.instance.prefer-ip-address=true
-#eureka.instance.instance-id=${spring.cloud.client.ipAddress}:${server.port}
-#eureka.client.register-with-eureka=true
-#eureka.client.fetch-registry=true
-#eureka.client.serviceUrl.defaultZone=http://127.0.0.1:9801/eureka/,http://127.0.0.1:9802/eureka/
