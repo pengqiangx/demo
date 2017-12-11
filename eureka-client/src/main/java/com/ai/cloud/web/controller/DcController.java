@@ -1,4 +1,4 @@
-package com.ai.cloud.controller;
+package com.ai.cloud.web.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.discovery.DiscoveryClient;
