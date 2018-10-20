@@ -51,7 +51,7 @@ public class ConcurrencyTest {
             b--;
         }
         long time = System.currentTimeMillis() - start;
-        System.out.println("concurrency={}"+time+"ms,b="+b);
+        System.out.println("serial={}"+time+"ms,b="+b);
     }
 
     @Test
