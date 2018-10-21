@@ -5,7 +5,8 @@ package com.github.pengqiangx.demo.dynamic;
  */
 public class ServiceB {
 
-    public void action(){
-        System.out.println("I'm B");
+    public String  action(String username){
+        System.out.println("I'm B - param = " + username);
+        return "hello " + username;
     }
 }

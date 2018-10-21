@@ -8,8 +8,8 @@ public class ServiceA {
     @SimpleInject
     ServiceB b;
 
-    public void callB(){
-        b.action();
+    public void callB(String param){
+        b.action(param);
     }
 
     public ServiceB getB() {
