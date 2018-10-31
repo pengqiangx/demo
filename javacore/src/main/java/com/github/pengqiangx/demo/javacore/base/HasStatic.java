@@ -17,4 +17,6 @@ public class HasStatic {
 
         System.out.print("1".equals(null));
     }
+
+
 }
